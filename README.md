@@ -11,7 +11,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Gemini API](https://img.shields.io/badge/Google-Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.google.dev/)
 
-[Live Demo](https://nexumai-paras.vercel.app/) · [Fitur](#-fitur-utama) · [Instalasi](#-memulai) · [Roadmap](#-roadmap)
+[Live Demo](https://nexumai-paras.vercel.app/) · [Fitur](#-fitur-utama) · [Roadmap](#-roadmap)
 
 <br />
 <br />
@@ -78,53 +78,6 @@ flowchart LR
 
 ---
 
-## 🚀 Memulai
-
-### Prasyarat
-
-- [Node.js](https://nodejs.org/) versi 18 atau lebih baru
-- npm / yarn / pnpm
-- API key [Google Gemini](https://aistudio.google.com/app/apikey)
-
-### Instalasi
-
-```bash
-# 1. Clone repositori
-git clone https://github.com/<username>/<nama-repo>.git
-cd <nama-repo>
-
-# 2. Install dependensi
-npm install
-
-# 3. Salin file environment
-cp .env.example .env.local
-```
-
-### Konfigurasi Environment
-
-Buka `.env.local` lalu isi dengan API key Anda:
-
-```env
-GEMINI_API_KEY=your_gemini_api_key_here
-```
-
-> ⚠️ **Jangan pernah** meng-commit file `.env.local` atau membagikan API key Anda secara publik.
-
-### Menjalankan Aplikasi
-
-```bash
-# Mode development
-npm run dev
-
-# Build untuk production
-npm run build
-npm start
-```
-
-Buka [http://localhost:3000](http://localhost:3000) di browser Anda.
-
----
-
 ## 🗂️ Struktur Proyek
 
 > Sesuaikan dengan struktur folder proyek Anda.
@@ -178,8 +131,6 @@ Proyek ini dikembangkan dan dipresentasikan pada **PARAS ICT XI 2026**, diseleng
 
 Hak Cipta © 2026 **NexumAI Team**. Seluruh hak dilindungi.
 
-> Ingin membuka proyek ini sebagai _open source_? Tambahkan file `LICENSE` (misalnya MIT) dan perbarui bagian ini.
-
 ---
 
 ## 📬 Kontak
@@ -187,8 +138,8 @@ Hak Cipta © 2026 **NexumAI Team**. Seluruh hak dilindungi.
 **NexumAI Team**
 
 - 🌐 Website: [nexumai-paras.vercel.app](https://nexumai-paras.vercel.app/)
-- 📧 Email: `email@anda.com`
-- 💼 GitHub: [@username](https://github.com/username)
+- 📧 Email: `putuadi208@gmail.com`
+- 💼 GitHub: [@adisaputra0](https://github.com/adisaputra0)
 
 <div align="center">
 
